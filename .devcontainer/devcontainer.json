@@ -9,7 +9,8 @@
         "esbenp.prettier-vscode",
         "rebornix.project-snippets",
         "dbaeumer.vscode-eslint",
-        "mutantdino.resourcemonitor"
+        "mutantdino.resourcemonitor",
+        "edge-engineer.edge-vscode"
       ]
     }
   },
